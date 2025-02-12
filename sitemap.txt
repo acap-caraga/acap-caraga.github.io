@@ -1,0 +1,10 @@
+https://acap-caraga.github.io/
+https://acap-caraga.github.io/weather-services/
+https://acap-caraga.github.io/cropping-calendar-v2/
+https://acap-caraga.github.io/agroclimatic-services/
+https://acap-caraga.github.io/bulletins/
+https://acap-caraga.github.io/bulletins/weather/
+https://acap-caraga.github.io/bulletins/seasonal-outlook/
+https://acap-caraga.github.io/bulletins/special-weather-forecast/
+https://acap-caraga.github.io/admin/login/
+https://acap-caraga.github.io/superadmin/login/
